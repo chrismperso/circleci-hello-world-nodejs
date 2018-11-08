@@ -10,7 +10,7 @@
 
 <br />
 
-A simple node.js "hello world" app to demo Continuous Integration
+CD chnaged A simple node.js "hello world" app to demo Continuous Integration
 &amp; Deployment (CI/CD) on Circle-CI!
 
 To see where this is _used_ `GOTO`: https://github.com/dwyl/learn-circleci :wink:
